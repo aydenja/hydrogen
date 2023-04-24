@@ -1,5 +1,11 @@
 # @shopify/cli-hydrogen
 
+## 4.1.2
+
+### Patch Changes
+
+- Update docs links on successful project creation ([#810](https://github.com/Shopify/hydrogen/pull/810)) by [@gfscott](https://github.com/gfscott)
+
 ## 4.1.1
 
 ### Patch Changes
